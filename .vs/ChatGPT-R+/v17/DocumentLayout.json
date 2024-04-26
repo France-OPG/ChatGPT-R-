@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rcsup\\source\\repos\\ChatGPT-R\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{189C2707-C8AF-468D-9EE3-4CDA0649847D}|ChatGPT-R\u002B.csproj|c:\\users\\rcsup\\source\\repos\\chatgpt-r\u002B\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189C2707-C8AF-468D-9EE3-4CDA0649847D}|ChatGPT-R\u002B.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189C2707-C8AF-468D-9EE3-4CDA0649847D}|ChatGPT-R\u002B.csproj|C:\\Users\\rcsup\\source\\repos\\ChatGPT-R\u002B\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{189C2707-C8AF-468D-9EE3-4CDA0649847D}|ChatGPT-R\u002B.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\rcsup\\source\\repos\\ChatGPT-R\u002B\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\rcsup\\source\\repos\\ChatGPT-R\u002B\\Form1.cs [Conception]",
+              "RelativeToolTip": "Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:13:39.935Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rcsup\\source\\repos\\ChatGPT-R\u002B\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\rcsup\\source\\repos\\ChatGPT-R\u002B\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwD8AAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:07:30.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
